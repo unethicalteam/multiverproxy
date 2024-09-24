@@ -1,6 +1,6 @@
 # multiverproxy
 A Cloudflare Worker designed to proxy Lunar Client's 1.8.9 multiver changes.
-- [demo the proxy](https://multiverproxy.unethical.team)
+- [demo the proxy](https://api.unethical.team/v1/multiver)
 
 ## How the Worker Works
 ### Constants
